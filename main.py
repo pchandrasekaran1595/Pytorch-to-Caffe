@@ -6,7 +6,7 @@ from pytorch2caffe import pytorch2caffe
 
 
 def main():
-    name = "mobilenet-v3-small"
+    name = "mobilenet_v3_small"
     size = 224
 
     args_1 = "--name"
