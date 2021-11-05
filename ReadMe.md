@@ -1,9 +1,5 @@
-<p>Python Script to convert Pytorch Classifier Models to Caffe Models</p>
+- Python Script to convert Pytorch Classifier Models to Caffe Model
 
-
-<p>Command Line Arguments</p>
-
-<br>
-
-1. `--name`
-2. `--size`
+- Command Line Arguments
+    1. `--name`
+    2. `--size`
